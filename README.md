@@ -1,6 +1,6 @@
 # Crocodile
 
-The **Crocodile** repository contains everything that a user should need in order to build Windows{x} compressed raw images
+The *Crocodile* repository contains everything that a user should need in order to build Windows{x} compressed raw images
 for [tinkerbell](https://tinkerbell.org). The repository contains a number of key peices:
 
 ## Dockerfile
